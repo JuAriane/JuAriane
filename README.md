@@ -1,6 +1,8 @@
-# Hi there 👋
+## Hi there 👋
 
 I'm Juliana Novais, a passionate software developer and tech enthusiast. I currently work as a Junior Software Developer at Evlos4u. With over 8 months of experience in the field, I've had the opportunity to work on various exciting projects and explore different technologies.
+
+---
 
 ## 🚀 Expertise
 
@@ -9,6 +11,8 @@ I am deeply passionate about technology, problem solving and I am continually lo
 I started my journey as an intern at my current company and, within six months, I was promoted to Junior Programmer. During this period, I am developing skills as a fullstack programmer to work on various technologies and frameworks.
 
 My knowledge covers front-end and back-end development, which allows me to approach projects with a broad perspective. I enjoy creating and planning solutions, always with the aim of achieving the highest quality results. My work is driven by a passion for technology and a commitment to continuous improvement, both personally and professionally.
+
+---
 
 ## 💻 Tech Stack
 
