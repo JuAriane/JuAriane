@@ -1,3 +1,6 @@
+<p align="right">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+
 ## Hi there 👋
 
 I'm Juliana Novais, a passionate software developer and tech enthusiast. I currently work as a Junior Software Developer at Evlos4u. With over 8 months of experience in the field, I've had the opportunity to work on various exciting projects and explore different technologies.
