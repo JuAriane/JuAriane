@@ -1,6 +1,6 @@
 ## Hi GitHub community 👋
 
-I'm Juliana Novais, a passionate software developer and tech enthusiast. I currently work as a Junior Software Developer at Evlos4u. With over 8 months of experience in the field, I've had the opportunity to work on various exciting projects and explore different technologies.
+I'm Juliana Novais, a backend-focused software developer passionate about building scalable and reliable systems. I develop and maintain APIs using C# and .NET, with experience in financial systems and designing integrations between services, focusing on reliability, data consistency, and business rules.
 
 ---
 
@@ -8,20 +8,31 @@ I'm Juliana Novais, a passionate software developer and tech enthusiast. I curre
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="center">
 </p>
 
-## 🚀 Expertise
+## About Me
 
-I am deeply passionate about technology, problem solving and I am continually looking for new challenges that will lead me to learn and grow. I am currently finishing my degree in Systems Analysis and Development, complementing my academic knowledge with practical experience in the field of software development.
+Having worked across backend, frontend, and mobile contexts, I bring a broader understanding of product development and collaborate effectively with cross-functional teams.
 
-I started my journey as an intern at my current company and, within six months, I was promoted to Junior Programmer. During this period, I am developing skills as a fullstack programmer to work on various technologies and frameworks.
+My main focus is backend development, where I work with:
 
-My knowledge covers front-end and back-end development, which allows me to approach projects with a broad perspective. I enjoy creating and planning solutions, always with the aim of achieving the highest quality results. My work is driven by a passion for technology and a commitment to continuous improvement, both personally and professionally.
+- API design and integration (REST)
+- Layered architecture and clean code practices
+- Business rules implementation in financial contexts
+- Debugging and improving application reliability
 
+I also have experience with frontend and mobile technologies, which helps me better understand the full product and collaborate effectively with cross-functional teams.
 
+Currently, I am expanding my knowledge in:
 
+- Distributed systems
+- Messaging and asynchronous communication
+- Automated testing
+- Cloud computing (AWS / Azure)
+
+I am always looking for opportunities to grow, solve complex problems, and build high-quality software.
 
 ---
 
-### 💻 Tech Stack
+### Tech Stack
 
 <p align="left">
 <td>
@@ -33,10 +44,25 @@ My knowledge covers front-end and back-end development, which allows me to appro
     </td>
 </p>
 
-[![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=Angular&logoColor=white)](https://angular.io)
-[![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)](https://flutter.dev)
-[![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=Dart&logoColor=white)](https://dart.dev)
-[![CSharp](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=C-Sharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/)
+[![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge\&logo=go\&logoColor=white)](https://go.dev/)
+[![CSharp](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge\&logo=C-Sharp\&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/)
+[![.NET](https://img.shields.io/badge/.NET-%23512BD4.svg?style=for-the-badge\&logo=.net\&logoColor=white)](https://dotnet.microsoft.com/)
+[![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-%23512BD4.svg?style=for-the-badge\&logo=.net\&logoColor=white)](https://learn.microsoft.com/en-us/aspnet/core/)
+[![REST API](https://img.shields.io/badge/REST%20API-%23000000.svg?style=for-the-badge\&logo=fastapi\&logoColor=white)](https://restfulapi.net/)
+
+[![SQL Server](https://img.shields.io/badge/SQL%20Server-%23CC2927.svg?style=for-the-badge\&logo=Microsoft%20SQL%20Server\&logoColor=white)](https://www.microsoft.com/en-us/sql-server)
+[![Azure Data Studio](https://img.shields.io/badge/Azure%20Data%20Studio-%230078D4.svg?style=for-the-badge\&logo=microsoft\&logoColor=white)](https://learn.microsoft.com/en-us/sql/azure-data-studio/)
+[![Azure](https://img.shields.io/badge/Azure-%230078D4.svg?style=for-the-badge\&logo=microsoftazure\&logoColor=white)](https://azure.microsoft.com/)
+
+[![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge\&logo=Docker\&logoColor=white)](https://www.docker.com/)
+[![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge\&logo=Git\&logoColor=white)](https://git-scm.com/)
+[![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge\&logo=Postman\&logoColor=white)](https://www.postman.com/)
+[![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge\&logo=Notion\&logoColor=white)](https://www.notion.so/)
+
+[![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge\&logo=Dart\&logoColor=white)](https://dart.dev)
+[![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge\&logo=Flutter\&logoColor=white)](https://flutter.dev)
+[![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge\&logo=TypeScript\&logoColor=white)](https://www.typescriptlang.org/)
+[![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge\&logo=Angular\&logoColor=white)](https://angular.io)
 
 ---
 
